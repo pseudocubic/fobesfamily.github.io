@@ -1,4 +1,4 @@
-![](assets/images/2015/Aug/20150611-20150611-DSC_3822.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Aug/20150611-20150611-DSC_3822.jpg)
 <p align=center style='text-align:center'><span>(Serves 8)</span></p>
 
 <p style='text-indent:.5in'><span>Want
@@ -16,7 +16,7 @@ with what you can find. The Vietnamese coriander is what gives this dish it’s
 unique flavor profile so if you can, make sure to use it in your salad. Then
 again, this is just my opinion. </span></p>
 
-![](assets/images/2015/Aug/20150611-20150611-DSC_3844.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Aug/20150611-20150611-DSC_3844.jpg)
 
 <p style='text-indent:.5in'><span>As
 with a lot of Vietnamese dishes, the dipping sauce or dressing is key to making
@@ -195,7 +195,7 @@ the dressing. &nbsp;</span></p>
  </tr>
 </table>
 
-![](assets/images/2015/Aug/20150611-20150611-IMG_5259.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Aug/20150611-20150611-IMG_5259.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none'>

@@ -1,4 +1,4 @@
-![](assets/images/2016/03/20160303-DSC_5367.jpg)
+![]({{ site.baseurl }}/assets/images/2016/03/20160303-DSC_5367.jpg)
 <p align=center style='text-align:center'><span>(Servings 8)
 </span></p>
 
@@ -11,7 +11,7 @@ life. Sometimes, that’s the only way to get through the day when you have a
 sick child in tow, running on no sleep and there are still a million chores to
 do. </span></p>
 
-![](assets/images/2016/03/20160303-DSC_5326.jpg)
+![]({{ site.baseurl }}/assets/images/2016/03/20160303-DSC_5326.jpg)
 
 <p style='text-indent:.5in'><span>This
 honey, lime and mustard combination lends to a great flavor profile. The long
@@ -21,8 +21,8 @@ for lunch the next day! I like to serve this pork with another quick side dish
 of <u>Rice Cooker Cilantro-Lime Rice.</u> Yet another simple recipe that lets a
 machine work its magic to give you time to do what you have to do.</span></p>
 
-![](assets/images/2016/03/20160303-DSC_5330.jpg)
-![](assets/images/2016/03/20160303-DSC_5341.jpg)
+![]({{ site.baseurl }}/assets/images/2016/03/20160303-DSC_5330.jpg)
+![]({{ site.baseurl }}/assets/images/2016/03/20160303-DSC_5341.jpg)
 
 <p style='text-indent:.5in'><span>I
 enjoy using this recipe when I know I will be out of the house for a long time
@@ -31,7 +31,7 @@ to worry about coming home and making dinner since it will already be done and
 waiting to be eaten. The aroma engulfs you right when you walk through the door
 to let you know dinner is ready! </span></p>
 
-![](assets/images/2016/03/20160303-DSC_5349.jpg)
+![]({{ site.baseurl }}/assets/images/2016/03/20160303-DSC_5349.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=542
  style='width:542.0pt;border-collapse:collapse;border:none'>

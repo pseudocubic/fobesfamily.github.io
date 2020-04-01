@@ -1,4 +1,4 @@
-![](assets/images/2015/Jun/20150516-DSC_3591.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Jun/20150516-DSC_3591.jpg)
 (Serves 4)
 
 <p style='text-indent:.5in'>I
@@ -19,7 +19,7 @@ from debate then this fish can easily be substituted with tilapia. </p>
 
 <p style='text-indent:.5in'>&nbsp;</p>
 
-![](assets/images/2015/Jun/20150516-DSC_3570.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Jun/20150516-DSC_3570.jpg)
 
 <p style='text-indent:.5in'>&nbsp;</p>
 

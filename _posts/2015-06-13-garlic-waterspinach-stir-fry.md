@@ -1,4 +1,4 @@
-![](assets/images/2015/Jun/20150529-20150529-DSC_3686.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Jun/20150529-20150529-DSC_3686.jpg)
 (Serves 3)
 
 <p style='text-indent:.5in'>Has

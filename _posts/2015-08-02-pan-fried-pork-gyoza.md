@@ -1,5 +1,5 @@
 
-![](assets/images/2015/Aug/20150608-20150608-DSC_3803.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Aug/20150608-20150608-DSC_3803.jpg)
 <p align=center style='text-align:center'><span
 >(Serves 4)</span></p>
 
@@ -19,7 +19,7 @@ fillings you can use but I find that pork is usually a favorite.</span></p>
 
 <p style='text-indent:.5in'><span>&nbsp;</span></p>
 
-![](assets/images/2015/Aug/20150608-20150608-DSC_3790.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Aug/20150608-20150608-DSC_3790.jpg)
 
 <p style='text-indent:.5in'><span>&nbsp;</span></p>
 
@@ -33,7 +33,7 @@ to have just one or two or three…</span></p>
 
 <p style='text-indent:.5in'><span>&nbsp;</span></p>
 
-![](assets/images/2015/Aug/20150608-20150608-DSC_3799.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Aug/20150608-20150608-DSC_3799.jpg)
 
 <p style='text-indent:.5in'><span>&nbsp;</span></p>
 

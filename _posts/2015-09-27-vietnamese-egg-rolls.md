@@ -1,4 +1,4 @@
-![](assets/images/2015/Sep/20150809-20150809-DSC_4197.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Sep/20150809-20150809-DSC_4197.jpg)
 <p align=center style='text-align:center'><span>(Makes 35)</span></p>
 
 <p style='text-indent:.5in'><span> Happy Mid-Autumn Festival everyone! I loved this holiday growing up. We would play outside with glowing lanterns, drinking tea and enjoying some mooncake as we marvel at the full moon.  I’ve
@@ -11,9 +11,9 @@ a few as a snack or appetizer. This freezes really well, and no need to
 defrost. Just pop it right into the hot oil and it will come out crispy and
 savory like you’ve just wrapped it.</span></p>
 
-![](assets/images/2015/Sep/20150809-20150809-DSC_4180.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Sep/20150809-20150809-DSC_4180.jpg)
 
-![](assets/images/2015/Sep/20150809-20150809-DSC_4181.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Sep/20150809-20150809-DSC_4181.jpg)
 
 <p style='text-indent:.5in'><span>There
 are so many ways to eat eggrolls. You can just eat it as an appetizer on it’s
@@ -25,7 +25,7 @@ eggrolls just tend to disappear before they make it to the table. It’s usually
 a go-to item for parties since you can make it a day in advance and just fry it
 as needed the day of the event. </span></p>
 
-![](assets/images/2015/Sep/20150809-20150809-DSC_4186.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Sep/20150809-20150809-DSC_4186.jpg)
 
 <p style='text-indent:.5in'><span>Traditionally,
 eggrolls are made with pork but now there are a wide variety of different types
@@ -33,7 +33,7 @@ of fillings. Pork is still my all-time favorite but maybe in the near future I
 will post a different eggroll filling for your enjoyment. I hope you guys like
 this dish, until next time! Enjoy the full moon!</span></p>
 
-![](assets/images/2015/Sep/20150809-20150809-DSC_4193.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Sep/20150809-20150809-DSC_4193.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=533
  style='width:533.2pt;border-collapse:collapse;border:none'>

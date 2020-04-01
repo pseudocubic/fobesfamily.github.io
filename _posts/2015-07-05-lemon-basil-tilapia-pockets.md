@@ -1,4 +1,4 @@
-![](assets/images/2015/Jun/20150520-20150520-DSC_3677.jpg)
+![]({{ site.baseurl }}/assets/images/2015/Jun/20150520-20150520-DSC_3677.jpg)
 
 <p style='text-indent:.5in'>I hope everyone had a wonderful fourth of July! A
 few weeks ago I tried making something that I suppose can be called a Pork
