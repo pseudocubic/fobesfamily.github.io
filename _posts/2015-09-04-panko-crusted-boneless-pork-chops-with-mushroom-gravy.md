@@ -1,4 +1,4 @@
-![]({{ site.baseurl }}/assets/images/2015/Sep/20150808-20150808-DSC_4169.jpg)
+![](assets/images/2015/Sep/20150808-20150808-DSC_4169.jpg)
 
 <p align=center style='text-align:center'><span>(Serves 4)</span></p>
 
@@ -12,7 +12,7 @@ them with salt and pepper and then giving them a quick bake in the oven. Don’t
 get me wrong, it does not come out half bad but my palate was just craving a
 little more than what that had to offer…</span></p>
 
-![]({{ site.baseurl }}/assets/images/2015/Sep/20150808-20150808-DSC_4150.jpg)
+![](assets/images/2015/Sep/20150808-20150808-DSC_4150.jpg)
 
 <p style='text-indent:.5in'><span>I
 wanted something with a nice crunchy crust as well as a little spicy kick, plus it
@@ -36,7 +36,7 @@ won’t eat anything. All the parents out there know what I’m talking about! I
 great when I can come up with a recipe that both my husband and I can enjoy and
 our daughter loves too. </span></p>
 
-![]({{ site.baseurl }}/assets/images/2015/Sep/20150808-20150808-DSC_4173.jpg)
+![](assets/images/2015/Sep/20150808-20150808-DSC_4173.jpg)
 
 <p style='text-indent:.5in'><span>(Note:
 I made this a little on the mild side so Evie can enjoy it as well but you can

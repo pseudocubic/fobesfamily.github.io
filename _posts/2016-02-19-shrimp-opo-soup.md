@@ -1,4 +1,4 @@
-![]({{ site.baseurl }}/assets/images/2016/02/20150927-DSC_4391.jpg)
+![](assets/images/2016/02/20150927-DSC_4391.jpg)
 <p align=center style='text-align:center'><span>(Servings 6)</span></p>
 
 <p style='text-indent:.5in'><span>I
@@ -8,8 +8,8 @@ of brothy goodness. And why not right? The options are limitless. Plus, having
 something simmering on the stove truly warms the house, and the aroma wafting
 through the air is like a hug when you walk through the door after a long day.</span></p>
 
-![]({{ site.baseurl }}/assets/images/2016/02/20150927-DSC_4353.jpg)
-![]({{ site.baseurl }}/assets/images/2016/02/20150927-DSC_4354.jpg)
+![](assets/images/2016/02/20150927-DSC_4353.jpg)
+![](assets/images/2016/02/20150927-DSC_4354.jpg)
 
 <p style='text-indent:.5in'><span>Shrimp-based
 soups are rather quick to make as the shrimp does not take long to cook, nor do
@@ -18,8 +18,8 @@ coastal country, has a bounty of recipes for seafood soups and shrimps do star
 in many. I can think of a handful of favorites I enjoyed as a child; Shrimp Opo
 Soup being one of them. </span></p>
 
-![]({{ site.baseurl }}/assets/images/2016/02/20150927-DSC_4362-1.jpg)
-![]({{ site.baseurl }}/assets/images/2016/02/20150927-DSC_4368.jpg)
+![](assets/images/2016/02/20150927-DSC_4362-1.jpg)
+![](assets/images/2016/02/20150927-DSC_4368.jpg)
 
 <p style='text-indent:.5in'><span>Shrimp
 Opo Soup is one of my preferred go to soup as it’s simple and doesn’t require
@@ -34,7 +34,7 @@ Deep-Fried Tofu in a Scallion Fish Sauce. This is a perfect combination of
 flavors and a great meal for those who celebrate Lenten Fridays when no meat is
 allowed! </span></p>
 
-![]({{ site.baseurl }}/assets/images/2016/02/20150927-DSC_4370.jpg)
+![](assets/images/2016/02/20150927-DSC_4370.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=542
  style='width:541.9pt;border-collapse:collapse;border:none'>

@@ -1,4 +1,4 @@
-![]({{ site.baseurl }}/assets/images/2015/Aug/20150609-20150609-DSC_3808.jpg)
+![](assets/images/2015/Aug/20150609-20150609-DSC_3808.jpg)
 <p align=center style='text-align:center'><span>(Serves 4)</span></p>
 
 <p style='text-indent:.5in'><span>As
@@ -11,7 +11,7 @@ scallions. You can easily substitute the pork with whatever protein you like or
 omit it all together if you feel like going meatless for the night. This works
 great for those of you looking for meals for Lenten Fridays!</span></p>
 
-![]({{ site.baseurl }}/assets/images/2015/Aug/20150609-20150609-DSC_3804.jpg)
+![](assets/images/2015/Aug/20150609-20150609-DSC_3804.jpg)
 
 <p style='text-indent:.5in'><span>This
 light and simple meal is quick to prepare, plus it’s healthy! Quick tips when

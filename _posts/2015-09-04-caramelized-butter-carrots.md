@@ -1,4 +1,4 @@
-![]({{ site.baseurl }}/assets/images/2015/Sep/20150519-20150519-DSC_3661.jpg)
+![](assets/images/2015/Sep/20150519-20150519-DSC_3661.jpg)
 
 <p align=center style='text-align:center'><span>(Serves 2-3)</span></p>
 

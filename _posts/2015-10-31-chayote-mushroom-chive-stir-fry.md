@@ -1,22 +1,22 @@
-![]({{ site.baseurl }}/assets/images/2015/10/20150804-20150804-DSC_4115.jpg)
+![](assets/images/2015/10/20150804-20150804-DSC_4115.jpg)
 <p align=center style='text-align:center'><span>(Makes 6-8)</span></p>
 
 <p><span style=''>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One of the great things about being where we live is that there are lots of family-oriented activities</span><span style=''> if you choose
 to participate. Well we went to our local Family Strength Network Potluck
 dinner this summer. It has a place for the kids to run wild and free while the adults can have some uninterrupted conversations. Every family would bring a dish to share, which is great since you can have a bunch of different dinners without having to make it all. I decided to bring my Chayote Mushroom Chive Stir-fry and some watermelon to share. It seemed to go over well with the crowd since I only had a couple of scoops leftover.</span></p>
 
-![]({{ site.baseurl }}/assets/images/2015/10/20150803-20150803-DSC_4101.jpg)
+![](assets/images/2015/10/20150803-20150803-DSC_4101.jpg)
 
 <p style='text-indent:.5in'><span style=''>I’ve
 mentioned this before but I do have a few tips when it comes to working with chayote. </span><span style=''>One, peel it with a vegetable
 peeler while it’s submerged under water or under running water to avoid getting the sticky sap on your hands. Alternatively, you can always wear gloves. Two, use a small spoon to scoop out the seed. And three, place all peeled and chopped chayote in a bowl with enough water to cover to prevent it from browning.</span><span style='font-size:14.0pt;'> </span></p>
 
-![]({{ site.baseurl }}/assets/images/2015/10/20150804-20150804-DSC_4102.jpg)
+![](assets/images/2015/10/20150804-20150804-DSC_4102.jpg)
 
 <p style='text-indent:.5in'><span style=''>Once
 everything is prepped, this dish takes almost no time to cook. I used my food processor to shred everything so that only took a split second! I wanted to bring this dish piping hot to the potluck so I prepped everything earlier in the day and made it right before we left. I know there is no meat in this dish but you can easily toss some in if you’d like. As this stir-fry is very subtle in flavor, it would go well with my <u>Carmelized Ginger Chicken in Oyster Sauce</u> or <u>Salt and Pepper Shrimp</u> and of course, rice. </span><span style='font-size:14.0pt;'>&nbsp;&nbsp; </span></p>
 
-![]({{ site.baseurl }}/assets/images/2015/10/20150804-20150804-DSC_4109.jpg)
+![](assets/images/2015/10/20150804-20150804-DSC_4109.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=524
  style='width:524.0pt;border-collapse:collapse;border:none'>

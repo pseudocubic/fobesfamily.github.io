@@ -1,4 +1,4 @@
-![]({{ site.baseurl }}/assets/images/2015/Jun/20150604-20150604-DSC_3738.jpg)
+![](assets/images/2015/Jun/20150604-20150604-DSC_3738.jpg)
 (Serves 4)
 
 <p style='text-indent:.5in'>Growing

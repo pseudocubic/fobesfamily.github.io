@@ -1,4 +1,4 @@
-![]({{ site.baseurl }}/assets/images/2015/Jun/20150516-DSC_3576.jpg)
+![](assets/images/2015/Jun/20150516-DSC_3576.jpg)
 
 (Serves 4-6)
 
