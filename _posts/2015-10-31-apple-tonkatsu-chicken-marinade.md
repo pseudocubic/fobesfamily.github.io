@@ -1,10 +1,10 @@
-![](assets/images/2015/10/20150923-20150923-DSC_4299.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150923-20150923-DSC_4299.jpg)
 <p align=center style='text-align:center'><span>(Serves 4)</span></p>
 
 <p style='text-indent:.5in'><span style=''>For
 a while now, every time I opened the refrigerator I’ve been staring at a bottle of tonkatsu sauce sitting in the door. The only recipe I ever use it for is to make Yakisoba. My husband would occasionally put it on some eggs but that would be the extent of it. I feel like I should be using this sauce in more recipes. My husband really enjoys the flavor and I can only make Yakisoba so often. For those of you not familiar, tonkatsu sauce is like worchestire sauce for Japanese people. It makes sense since that is from where tonkatsu sauce derived. There are many versions of this sauce but the one I use is the Bull Dog brand.</span></p>
 
-![](assets/images/2015/10/20150921-20150921-DSC_4285.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150921-20150921-DSC_4285.jpg)
 
 <p style='text-indent:.5in'><span style=''>&nbsp;Being
 in the mood to roast some chicken thighs in the oven this week, I began to
@@ -15,13 +15,13 @@ is great if you don’t have a lot of time on hand. The ingredient list is fairl
 short and clean up is brief. You just have to throw everything into a food
 processor and you’re done with the marinade!</span></p>
 
-![](assets/images/2015/10/20150921-20150921-DSC_4287.jpg)
-![](assets/images/2015/10/20150921-20150921-DSC_4289.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150921-20150921-DSC_4287.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150921-20150921-DSC_4289.jpg)
 
 <p style='text-indent:.5in'><span style=''>Once
 you pop the chicken in your oven, the house will fill with a light sweet aroma from the marinade. When done, the chicken itself is extremely moist and tender and the flavor subtle. This will serve great with a side of rice and roasted or boiled vegetables. I must say, this has become a favorite recipe for me to add to my repertoire. Simple and easy to make, minimal clean up and delicious to eat, it’s perfect for those days when there is just not enough time to be in the kitchen. You can just marinade the chicken on the weekend and then throw it in the oven during the week for a delectable home-cooked meal with minimal effort.</span></p>
 
-![](assets/images/2015/10/20150923-20150923-DSC_4295.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150923-20150923-DSC_4295.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=533
  style='width:533.05pt;border-collapse:collapse;border:none'>

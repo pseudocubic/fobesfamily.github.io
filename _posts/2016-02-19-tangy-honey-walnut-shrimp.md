@@ -1,4 +1,4 @@
-![](assets/images/2016/02/20151114-DSC_4826.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151114-DSC_4826.jpg)
 <p align=center style='text-align:center'><span>(Servings 4)</span></p>
 
 <p style='text-indent:.5in'><span>I can’t believe I’ve had this food blog for over a year now. Thanks to everyone who have supported me in this endeavor! To celebrate, I have a very festive dish for this week’s post. Honey
@@ -9,7 +9,7 @@ attempted this dish a few times, it was not as bad as I had original assumed. Th
 walnut, shrimp and sauce can be prepped ahead of time allowing the cooking
 process to be much quicker for when you are ready to eat. </span></p>
 
-![](assets/images/2016/02/20151114-DSC_4793.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151114-DSC_4793.jpg)
 
 <p style='text-indent:.5in'><span>The
 best part about making this dish at home for me is being able to control the
@@ -19,8 +19,8 @@ personal preference, I enjoy the sauce a little more on the tangy end of the
 spectrum but it tends to be served more sweet. All is well if I just make my
 own right?</span></p>
 
-![](assets/images/2016/02/20151114-DSC_4800.jpg)
-![](assets/images/2016/02/20151114-DSC_4808.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151114-DSC_4800.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151114-DSC_4808.jpg)
 
 <p style='text-indent:.5in'><span>Some
 disadvantages with making Tangy Honey Walnut Shrimp is that it needs to be
@@ -31,8 +31,8 @@ just enough for one sitting. Also, prepping everything ahead of time is a great
 way to get this dish to the table quickly so you and your loved ones can enjoy
 a wonderful meal together!</span></p>
 
-![](assets/images/2016/02/20151114-DSC_4798.jpg)
-![](assets/images/2016/02/20151114-DSC_4822.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151114-DSC_4798.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151114-DSC_4822.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=534
  style='width:533.5pt;border-collapse:collapse;border:none'>

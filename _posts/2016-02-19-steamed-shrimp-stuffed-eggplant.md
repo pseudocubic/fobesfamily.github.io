@@ -1,4 +1,4 @@
-![](assets/images/2016/02/20150928-IMG_5982.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150928-IMG_5982.jpg)
 <p align=center style='text-align:center'><span>(Makes 4)</span></p>
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Japanese
@@ -8,7 +8,7 @@ store, I found an amazing batch of Japanese eggplants and could not refrain
 from buying way too much. To be honest, I had no idea what I wanted to make
 with them, but I figured inspiration will come to me once I got home. </span></p>
 
-![](assets/images/2016/02/20150928-IMG_5976.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150928-IMG_5976.jpg)
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So
 my husband has had a few my eggplant dishes; stew, deep-fried, stir-fried,
@@ -19,7 +19,7 @@ trip home over the summer that had ignited my need to for steamed dishes. So
 heads up, there will probably be a few steamed dishes on my blog in the near
 future.</span></p>
 
-![](assets/images/2016/02/20150928-IMG_5977.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150928-IMG_5977.jpg)
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For
 my husband’s first steamed eggplant dish, I decided to go with a simple shrimp
@@ -29,7 +29,7 @@ delicious (and impressive when presented properly). The spongey eggplant makes
 for a great carrier of the crunchy shrimp and absorption of the the sauce. I
 love eggplant and I love sauce, so this is a great dish that highlights both! </span></p>
 
-![](assets/images/2016/02/20150928-IMG_5980.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150928-IMG_5980.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=551
  style='width:550.9pt;border-collapse:collapse;border:none'>

@@ -1,4 +1,4 @@
-![](assets/images/2016/01/20150529-DSC_3701.jpg)
+![]({{ site.url }}/assets/images/2016/01/20150529-DSC_3701.jpg)
 <p align=center style='text-align:center'><span>(Serves 4)</span></p>
 
 <p style='text-indent:.5in'><span>Eggs,

@@ -1,6 +1,6 @@
 
 
-![](assets/images/2015/Aug/20150612-20150612-IMG_5261.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150612-20150612-IMG_5261.jpg)
 
 <p align=center style='text-align:center'><span>(Serves 6-8)</span></p>
 
@@ -12,8 +12,8 @@ bowl of </span><span>Pho or </span><span>Bò Kho, you get my drift. Although, st
 are more time consuming to make they are actually pretty difficult to ruin and are
 fully packed with flavor; some of the many reasons why I love it so much. </span></p>
 
-![](assets/images/2015/Aug/20150612-20150612-DSC_3851.jpg)
-![](assets/images/2015/Aug/20150612-20150612-DSC_3853.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150612-20150612-DSC_3851.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150612-20150612-DSC_3853.jpg)
 
 
 <p><span>Vietnamese Eggplant Stew
@@ -24,7 +24,7 @@ leaves did not turn out well so I could not include them for you here. The
 leaves are a deep purple on the one side and dark green on the other and has a
 strong distinct aroma that infuses itself throughout this stew.</span></p>
 
-![](assets/images/2015/Aug/20150612-20150612-DSC_3859-3.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150612-20150612-DSC_3859-3.jpg)
 
 <p style='text-indent:.5in'><span>Alas,
 for me it can only be bought at the Asian store an hour in a half
@@ -36,7 +36,7 @@ belly but there is just a slight adjustment to the ingredients and cooking
 method. (If there are requests I can do a future post with bacon, please leave
 a comment below.) </span></p>
 
-![](assets/images/2015/Aug/20150612-20150612-DSC_3861-1.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150612-20150612-DSC_3861-1.jpg)
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Also,
 I wanted to include a picture of the tamarind concentrate that I used in case
@@ -46,7 +46,7 @@ tamarind. And as far as I can tell, this jar lasts forever in the fridge (not
 that it stays in the fridge for that long since I use it very often in my
 cooking).&nbsp; </span></p>
 
-![](assets/images/2015/Aug/20150612-20150612-DSC_3872-1.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150612-20150612-DSC_3872-1.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=536
  style='width:536.2pt;border-collapse:collapse;border:none'>

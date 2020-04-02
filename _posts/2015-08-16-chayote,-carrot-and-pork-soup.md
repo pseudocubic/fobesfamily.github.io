@@ -1,5 +1,5 @@
 
-![](assets/images/2015/Aug/20150601-20150601-DSC_3734.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150601-20150601-DSC_3734.jpg)
 
 <p align=center style='text-align:center'><span>(Serves 6)</span></p>
 
@@ -20,7 +20,7 @@ can always wear gloves. Two, use a small spoon to scoop out the seed. And three,
 place all peeled and chopped chayote in a bowl with enough water to cover to prevent
 it from browning.</span><span style='font-size:14.0pt'> </span></p>
 
-![](assets/images/2015/Aug/20150601-20150601-DSC_3725.jpg)
+![]({{ site.url }}/assets/images/2015/Aug/20150601-20150601-DSC_3725.jpg)
 
 <p style='text-indent:.5in'><span>This
 soup is best served steaming hot with a little bowl of rice but it can hold

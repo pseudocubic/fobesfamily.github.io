@@ -1,4 +1,4 @@
-![](assets/images/2016/03/20160303-DSC_5358.jpg)
+![]({{ site.url }}/assets/images/2016/03/20160303-DSC_5358.jpg)
 <p align=center style='text-align:center'><span>(Servings 4)</span></p>
 
 <p style='text-indent:.5in'><span>I hope everyone had a wonderful Lenten Season and a Happy Easter! I know I’ve been MIA for quite a while now but I just came back from a long vacation home to visit family. You know how that goes; lots of activities, fun and of course food!
@@ -12,7 +12,7 @@ However, feel free to give your rice an extra dose of lime juice if you’re lik
 me. This Cilantro-Lime Rice was a perfect side to my <u>Honey-Lime-Mustard Slow
 Cooker Pork</u>, another fast an easy recipe for a busy day.</span></p>
 
-![](assets/images/2016/03/20160303-DSC_5352.jpg)
+![]({{ site.url }}/assets/images/2016/03/20160303-DSC_5352.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=534
  style='width:533.5pt;border-collapse:collapse;border:none'>

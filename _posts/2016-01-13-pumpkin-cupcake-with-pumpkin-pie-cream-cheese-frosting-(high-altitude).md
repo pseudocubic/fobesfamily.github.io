@@ -1,4 +1,4 @@
-![](assets/images/2016/01/20151122-DSC_4903.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151122-DSC_4903.jpg)
 <p align=center style='text-align:center'><span>(Makes 12)</span></p>
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One
@@ -10,7 +10,7 @@ recipes for high altitude bakers, but disappointingly, the recipes are usually
 for around 5000 feet. Sure, some posts did say how to alter the recipe for
 higher elevation but it did not turn out right. </span></p>
 
-![](assets/images/2016/01/20151122-DSC_4873.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151122-DSC_4873.jpg)
 
 <p style='text-indent:.5in'><span>Granted,
 I knew what I was getting into but I really miss being able to toss something
@@ -21,7 +21,7 @@ properly and it was moist and fluffy. I’m so excited to make these for the
 holiday season. The combination of pumpkin, cinnamon and nutmeg is just
 irresistible.</span></p>
 
-![](assets/images/2016/01/20151122-DSC_4884.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151122-DSC_4884.jpg)
 <p style='text-indent:.5in'><span>As
 I was saying, this recipe has been tailored specifically for high altitude
 baking. So for those of you lucky enough to be at sea level, you’ll have to
@@ -33,7 +33,7 @@ post! I’ve personally been pulling my hair out trying to find suitable recipes
 (I’m telling you it’s slim pickings!) and modifying the ones I have to get a
 proper baked good.</span></p>
 
-![](assets/images/2016/01/20151122-DSC_4887.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151122-DSC_4887.jpg)
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now
 that I have gotten a cupcake recipe to work, of course it is time to work on a
@@ -45,7 +45,7 @@ always use your choice of frosting but I really find that this frosting piled
 high on top of my cupcake works seamlessly. The sweetness and creaminess of the
 frosting combined with the pumpkin cupcake is amazing! </span></p>
 
-![](assets/images/2016/01/20151122-DSC_4896.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151122-DSC_4896.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=524
  style='width:524.4pt;border-collapse:collapse;border:none'>

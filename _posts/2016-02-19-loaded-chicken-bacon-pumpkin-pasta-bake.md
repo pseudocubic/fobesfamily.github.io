@@ -1,4 +1,4 @@
-![](assets/images/2016/02/20151111-DSC_4756.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4756.jpg)
 <p align=center style='text-align:center'><span>(Servings 8)</span></p>
 
 <p style='text-indent:.5in'><span>I
@@ -9,23 +9,23 @@ wants pumpkin flavored everything! Of course, amongst the sweets I had to throw
 in some savory to create a semblance of balance. This lead to my Loaded
 Chicken-Bacon Pumpkin Pasta Bake. </span></p>
 
-![](assets/images/2016/02/20151111-DSC_4731.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4731.jpg)
 
 <p style='text-indent:.5in'><span>Though
 the recipe is a little more intricate, it’ll be a great dish to bring to a
 thanksgiving potluck. The baked pasta has a crunchy top while the sauce is kept
 creamy with lots of pumpkin flavor coming through with every bite. </span></p>
 
-![](assets/images/2016/02/20151111-DSC_4733.jpg)
-![](assets/images/2016/02/20151111-DSC_4737.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4733.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4737.jpg)
 
 <p style='text-indent:.5in'><span>Personally,
 this dish was a perfect way for me to use leftover Thanksgiving ingredients and
 stretch out the Thanksgiving celebration further. I hope this recipe makes it
 into one of your November meals!&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></p>
 
-![](assets/images/2016/02/20151111-DSC_4743.jpg)
-![](assets/images/2016/02/20151111-DSC_4749.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4743.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4749.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=542
  style='width:541.9pt;border-collapse:collapse;border:none'>

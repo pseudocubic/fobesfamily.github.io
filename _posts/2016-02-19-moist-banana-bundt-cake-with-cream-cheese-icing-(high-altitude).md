@@ -1,4 +1,4 @@
-![](assets/images/2016/02/20151111-DSC_4754.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4754.jpg)
 <p align=center style='text-align:center'><span>(Servings 12)</span></p>
 
 <p style='text-indent:.5in'><span>I
@@ -13,8 +13,8 @@ we get it she is no longer interested. This is what constantly happens with
 bananas. I’ll buy two, she’ll eat it all in a day and want more. I buy six and
 she wants nothing to do with them…</span></p>
 
-![](assets/images/2016/02/20151111-DSC_4723.jpg)
-![](assets/images/2016/02/20151111-DSC_4720.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4723.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4720.jpg)
 
 <p style='text-indent:.5in'><span>So
 what else should I do with bananas that are extremely over ripened but do some
@@ -25,8 +25,8 @@ cream cheese-based icing. And hey, there are bananas in it so it’s healthier,
 no? I don’t like throwing away money so being able to salvage the bananas this
 way is a perk not to mention the delicious benefits.&nbsp; </span></p>
 
-![](assets/images/2016/02/20151111-DSC_4724.jpg)
-![](assets/images/2016/02/20151111-DSC_4747.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4724.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151111-DSC_4747.jpg)
 
 <p style='text-indent:.5in'><span>This
 is so fast and easy to whip up. The crunchy outer layer is a great contrast to
@@ -35,7 +35,7 @@ ripened bananas, why not test out this recipe and let me know what you think?
 Oh, and do not forget the cream cheese icing, it really brings this cake to a
 whole new level!</span></p>
 
-![](assets/images/2016/02/20151112-DSC_4788.jpg)
+![]({{ site.url }}/assets/images/2016/02/20151112-DSC_4788.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=543
  style='width:543.1pt;border-collapse:collapse;border:none'>

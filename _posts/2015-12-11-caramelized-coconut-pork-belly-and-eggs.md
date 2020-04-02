@@ -1,5 +1,5 @@
 
-![](assets/images/2015/12/20150924-20150924-DSC_4346.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4346.jpg)
 <p align=center style='text-align:center'><span>(Servings 6)</span></p>
 
 <p style='text-indent:.5in'><span> Happy Lunar New Year everyone! Well, it's officially on Monday; the year of the Monkey. Today
@@ -12,8 +12,8 @@ Year. I don’t think it’s a coincidence that pickled items are also a Tet
 tradition as Pickled Mustard Greens pairs so well with this dish. When I don’t
 have any on hand, plain cucumber pieces will also do the trick. </span></p>
 
-![](assets/images/2015/12/20150924-20150924-DSC_4315.jpg)
-![](assets/images/2015/12/20150924-20150924-DSC_4321.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4315.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4321.jpg)
 
 <p style='text-indent:.5in'><span></span> I know,
 pork belly and bacon is the rave right now. But I have been enjoying pork belly
@@ -21,8 +21,8 @@ way before it has become a fad. I am unsure about other cultures, but for
 Vietnamese cuisine, pork is widely used and pork belly is a prized cut for so
 many reasons. The perfect layers of meat and fat when cooked is
 mouth-wateringly soft with flavors words can not express.
-![](assets/images/2015/12/20150924-20150924-DSC_4319.jpg)
-![](assets/images/2015/12/20150924-20150924-DSC_4322.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4319.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4322.jpg)
 
 <p style='text-indent:.5in'><span>There’s
 nothing about this dish that I do not like, from the color to the flavors, nothing
@@ -33,8 +33,8 @@ you can refrigerate the dish and skim off the fat that consolidates at the top
 to make this dish healthier. But do remember that fat is flavor so do leave
 some for your palate’s enjoyment!</span></p>
 
-![](assets/images/2015/12/20150924-20150924-DSC_4324.jpg)
-![](assets/images/2015/12/20150924-20150924-DSC_4334.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4324.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4334.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=542
  style='width:541.9pt;border-collapse:collapse;border:none'>

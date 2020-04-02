@@ -1,21 +1,21 @@
-![](assets/images/2015/10/20150914-20150914-DSC_4279.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4279.jpg)
 <p align=center style='text-align:center'><span>(Serves 6)</span></p>
 
 <p style='text-indent:.5in'><span style=''>So it seems that I have been going back to California a lot this year, like every 7-8 weeks! And of course, being a typical Vietnamese mother, my mommy would always send me back with a large care package filled with some kind of fruits, veggies and other edible delights! Hey, no complaints here. I get great treats that are hard to find where I live and also new ingredients to create more recipes for my blog; win-win. Well this last trip home I was able to convince most of my family to do a road trip back to New Mexico for a mini-vacation and to see what life is like outside of California. Let’s just say my parents are not huge fans of traveling…</span></p>
 
-![](assets/images/2015/10/20150914-20150914-DSC_4254.jpg)
-![](assets/images/2015/10/20150914-20150914-DSC_4259.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4254.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4259.jpg)
 
 <p style='text-indent:.5in'><span style=''>Recently, I had told my mom that I’ve been craving this Vietnamese soup that we used to eat all the time when I lived at home, Shrimp-Malabar Spinach Soup (Canh Rau Mồng Tơi) so she brought 4 pounds worth of the stuff with her on the road trip here (amongst other things)! What can I say, my mom has a soft spot when it comes to food with me. Once everyone left, the house felt extra empty and more quiet than usual with just Evie and I so I hit the kitchen to whip up some comfort soup with California goodies.</span></p>
 
-![](assets/images/2015/10/20150914-20150914-DSC_4263.jpg)
-![](assets/images/2015/10/20150914-20150914-DSC_4266.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4263.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4266.jpg)
 
 <p style='text-indent:.5in'><span style='; color:black'>Once I got the stock going the aroma wafted through the air like a comforting embrace. It’s been ages since I’ve cooked this dish! The smell just brought me back to my childhood, being in the kitchen with my mother as we made dinner for the family. I was constantly fighting the urge to “taste” the soup straight from the pot! The deep green color from the spinach just makes the pink cooked shrimp pop in the clear broth. The soft texture of the cooked leaves pairs well will the crunchy quality of freshly minced shrimp. A great side dish to accompany this soup is the <u>Pickled Vietnamese Eggplant (Cà Pháo)</u>. With each bite it releases an array of flavors: sweet, sour, spicy and has a wonderful crunch to boot! And on a major plus side, this meal is a high protein, low calorie meal! I hope you guys enjoy it as much as I do. Until next time!</span></p>
 
-![](assets/images/2015/10/20150914-20150914-DSC_4271-1.jpg)
-![](assets/images/2015/10/20150914-20150914-DSC_4269.jpg)
-![](assets/images/2015/10/20150914-20150914-DSC_4275.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4271-1.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4269.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150914-20150914-DSC_4275.jpg)
 
 
 <table border=1 cellspacing=0 cellpadding=0 width=533

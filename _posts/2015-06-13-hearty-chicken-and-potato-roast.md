@@ -1,4 +1,4 @@
-![](assets/images/2015/Jun/20150519-20150519-DSC_3654.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150519-20150519-DSC_3654.jpg)
 (Serves 4)
 
 <p style='text-indent:.5in'>Who
@@ -18,7 +18,7 @@ the carrots and potatoes in any ratio you like. Also if you wanted to be
 healthy and reduce or omit the bacon, feel free to substitute the bacon fat
 with olive oil. But then again, do you really want to do that? Enjoy and have a Happy Father's Everyone!</p>
 
-![](assets/images/2015/Jun/20150519-20150519-DSC_3666.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150519-20150519-DSC_3666.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=528
  style='width:527.55pt;border-collapse:collapse;border:none'>

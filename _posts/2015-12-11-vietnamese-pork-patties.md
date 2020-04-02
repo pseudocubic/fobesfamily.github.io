@@ -1,5 +1,5 @@
 
-![](assets/images/2015/12/20150924-20150924-DSC_4342.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4342.jpg)
 <p align=center style='text-align:center'><span>(Servings 4)</span></p>
 
 <p style='text-indent:.5in'><span>After
@@ -11,7 +11,7 @@ own meat but you do get to create your own blend. Of course I needed to try out
 my grinder which lead to lots of ground pork dishes I’m sure will soon appear
 on the blog.</span></p>
 
-![](assets/images/2015/12/20150923-20150923-DSC_4305.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150923-20150923-DSC_4305.jpg)
 
 <p style='text-indent:.5in'><span>For
 today I decided to make Vietnamese Pork Patties as it has been awhile since I
@@ -27,7 +27,7 @@ Vietnamese people use as a gauge for a great meal: sour, bitter, sweet, spicy
 and salty. A cohesive meal should not only include all these tastes but also
 balances it as well.</span></p>
 
-![](assets/images/2015/12/20150924-20150924-DSC_4311.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4311.jpg)
 
 <p style='text-indent:.5in'><span>This
 is a great summer dish. All the fresh herbs and vegetables really helps fight
@@ -37,8 +37,8 @@ herbs and vegetables, followed by a couple of pork patties, which is finally
 topped with dipping sauce. You have the major food groups in one bowl: protein,
 vegetable and carbohydrates. And it tastes amazing!</span></p>
 
-![](assets/images/2015/12/20150924-20150924-DSC_4331.jpg)
-![](assets/images/2015/12/20150924-20150924-DSC_4313.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4331.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4313.jpg)
 
 <p style='text-indent:.5in'><span>I
 know this recipe is a little more involved but the results are well worth the
@@ -47,8 +47,8 @@ make a little extra for a couple of lunches-worth during the week. However,
 there is nothing wrong with having it all in one go. Enjoy this dish and I will
 see you next week; hopefully with a recipe that will interest you. </span></p>
 
-![](assets/images/2015/12/20150924-20150924-DSC_4339.jpg)
-![](assets/images/2015/12/20150924-20150924-DSC_4326.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4339.jpg)
+![]({{ site.url }}/assets/images/2015/12/20150924-20150924-DSC_4326.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=542
  style='width:541.9pt;border-collapse:collapse;border:none'>
@@ -212,7 +212,7 @@ see you next week; hopefully with a recipe that will interest you. </span></p>
  </tr>
 </table>
 
-![](assets/images/2015/10/20150802-20150802-DSC_4077.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150802-20150802-DSC_4077.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none'>

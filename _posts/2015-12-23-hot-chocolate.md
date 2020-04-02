@@ -1,4 +1,4 @@
-![](assets/images/2015/12/20151111-DSC_4779.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151111-DSC_4779.jpg)
 <p align=center style='text-align:center'><span>(Makes about 3 1/2 Cups)</span></p>
 
 <p style='text-indent:.5in'><span>Christmas
@@ -10,7 +10,7 @@ for homemade recipes, I find them either too chocolaty or overly sweet. And to
 top it off, the recipes makes enough for an army! So I decided to make my own
 version.</span></p>
 
-![](assets/images/2015/12/20151111-DSC_4763.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151111-DSC_4763.jpg)
 
 <p style='text-indent:.5in'><span>It
 took me a few tries to come up with the perfect balance of chocolate and milk
@@ -19,8 +19,8 @@ here, I’ve been making this a lot. And of course, my little two-year-old enjoy
 snacking on the mini-marshmallows while helping stir the hot chocolate. With
 such a simple recipe, there is no reason to not enjoy this more often right?</span></p>
 
-![](assets/images/2015/12/20151111-DSC_4769.jpg)
-![](assets/images/2015/12/20151111-DSC_4772.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151111-DSC_4769.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151111-DSC_4772.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=552
  style='width:551.75pt;border-collapse:collapse;border:none'>

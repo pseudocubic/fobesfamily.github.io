@@ -1,21 +1,21 @@
-![](assets/images/2015/10/20150802-20150802-DSC_4087.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150802-20150802-DSC_4087.jpg)
 <p align=center style='text-align:center'><span>(Serves 6)</span></p>
 
 <p style='text-indent:.5in'><span style=''>The
 Vietnamese Savory Crepe (Bánh Xèo) is a very popular item on the Vietnamese menu. It was definitely popular in my house when I was a child and still is now with my husband and daughter. He has been hooked on this dish since I first introduced him to it years and years ago while we were dating. I guess the old adage, “A way to a man’s heart is through his stomach” is not that far-fetched. Seriously though, this dish gives you the best of everything. A crispy, crunchy, fragrant crepe on the outside, stuffed with shrimp and bean sprouts and paired with a pungent dipping sauce and herbs and vegetables galore. What more do you want? I can recall a time where I could down a basket of herbs and veggies with just one or two crepes!</span></p>
 
-![](assets/images/2015/10/20150801-20150801-DSC_4062.jpg)
-![](assets/images/2015/10/20150801-20150801-DSC_4063.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150801-20150801-DSC_4062.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150801-20150801-DSC_4063.jpg)
 
 <p style='text-indent:.5in'><span style=''>I’m going to be candid here, there is a bit of work you need to put into prepping for this meal. Aside from what is stated in the recipe, there is also the dipping sauce you need to make and lots of vegetables and herbs to wash and sort but it is so worth the trouble. Below I have a list of vegetables and herbs that are usually eaten with Bánh Xèo that you can refer to if needed. You can eat these amazing crepes on it’s own but when paired with the herbs and vegetables, the flavor profile just soars exponentially. Also, don’t skip out on the dipping sauce as it brings everything together.</span></p>
 
-![](assets/images/2015/10/20150801-20150801-DSC_4066.jpg)
-![](assets/images/2015/10/20150801-20150801-DSC_4069.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150801-20150801-DSC_4066.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150801-20150801-DSC_4069.jpg)
 
 <p style='text-indent:.5in'><span style=''>There is a learning curve when it comes to perfectly cooking these crepes. When I made my first Bánh Xèo, I had a lot of trouble keeping it intact and not soggy. Practice does makes perfect, I promise. Adding the beer instead of water really help with fixing the batter to make a crispy crepe which helped keep the crepe intact for that beautiful presentation effect. I have added some tips along with the instructions that should help you make the perfect crepe. Please enjoy and let me know how it goes!</span></p>
 
-![](assets/images/2015/10/20150802-20150802-DSC_4075.jpg)
-![](assets/images/2015/10/20150802-20150802-DSC_4081.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150802-20150802-DSC_4075.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150802-20150802-DSC_4081.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=533
  style='width:533.4pt;border-collapse:collapse;border:none'>
@@ -252,7 +252,7 @@ Vietnamese Savory Crepe (Bánh Xèo) is a very popular item on the Vietnamese me
  </tr>
 </table>
 
-![](assets/images/2015/10/20150802-20150802-DSC_4077.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150802-20150802-DSC_4077.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none'>

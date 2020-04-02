@@ -1,4 +1,4 @@
-![](assets/images/2016/01/20151109-DSC_4708.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4708.jpg)
 <p align=center style='text-align:center'><span>(Serves 4)</span></p>
 
 <p style='text-indent:.5in'><span>My
@@ -8,8 +8,8 @@ introduce to our dinners. It just so happened that I had some pomegranate and
 tilapia fillets laying around to experiment with in the kitchen. Turns out, the
 experiment was rather tasty.</span></p>
 
-![](assets/images/2016/01/20151109-DSC_4666.jpg)
-![](assets/images/2016/01/20151109-DSC_4670.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4666.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4670.jpg)
 
 <p style='text-indent:.5in'><span>This
 past Spring I started cultivating some indoor herbs that I had purchased from
@@ -19,8 +19,8 @@ a trim. And since mint pairs amazingly well with pomegranate, I had to
 incorporate it into the recipe. My herb got a nice trim, the dish got another
 depth of flavor and nothing went to waste. I’d say that’s a win, right?&nbsp; </span></p>
 
-![](assets/images/2016/01/20151109-DSC_4678.jpg)
-![](assets/images/2016/01/20151109-DSC_4687.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4678.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4687.jpg)
 
 <p style='text-indent:.5in'><span>Tasty
 is one thing, but lately I’ve been wanting easy and quick dinner recipes and
@@ -29,8 +29,8 @@ all the marinade ingredients, make a panko crust and bake. The results speak
 for itself. Crispy crust, flavorful flaky fish and the color contrasts gives
 the eyes a treat.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</span></p>
 
-![](assets/images/2016/01/20151109-DSC_4675.jpg)
-![](assets/images/2016/01/20151109-DSC_4684.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4675.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151109-DSC_4684.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=533
  style='width:533.3pt;border-collapse:collapse;border:none'>

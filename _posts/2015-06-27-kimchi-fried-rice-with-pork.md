@@ -1,6 +1,6 @@
 
 
-![](assets/images/2015/Jun/20150617-20150617-DSC_3904.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150617-20150617-DSC_3904.jpg)
 <p align=center style='text-align:center'><span
 style=''>(Serves 5-6)</span></p>
 
@@ -16,7 +16,7 @@ to post a picture on my FaceBook page and incidentally, one of my close friends
 saw the post and was also having the same hankering and asked for the recipe.</span></p>
 
 
-![](assets/images/2015/Jun/20150617-20150617-DSC_3895.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150617-20150617-DSC_3895.jpg)
 
 
 <p style='text-indent:.5in'><span>I
@@ -29,7 +29,7 @@ Feel free to toss in extra red pepper flakes for more of a spicy kick. Also, you
 chicken or beef if you don’t want pork. Not a fan of ground meat? Cut your
 choice of meat into quarter inch cubes and go right on cooking. </span></p>
 
-![](assets/images/2015/Jun/20150617-20150617-DSC_3899.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150617-20150617-DSC_3899.jpg)
 
 <p style='text-indent:.5in'><span>The
 combination of sour, spicy and salty topped with a beautifully fried sunny side
@@ -42,7 +42,7 @@ batch ahead of time and keep it warm in the oven until it’s time for
 company.&nbsp; Or if you’re me, just make a large batch and feast on it for a
 few days!</span></p>
 
-![](assets/images/2015/Jun/20150617-20150617-DSC_3903.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150617-20150617-DSC_3903.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=527
  style='width:527.4pt;border-collapse:collapse;border:none'>

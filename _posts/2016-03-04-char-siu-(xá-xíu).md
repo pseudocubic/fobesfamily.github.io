@@ -1,4 +1,4 @@
-![](assets/images/2016/03/20151214-DSC_5058.jpg)
+![]({{ site.url }}/assets/images/2016/03/20151214-DSC_5058.jpg)
 <p align=center style='text-align:center'><span>(Servings 8)</span></p>
 
 <p style='text-indent:.5in'><span>Growing
@@ -30,7 +30,7 @@ the meat. Have some pickled veggies ready or just a plate of sliced cucumbers
 on hand with rice and your meal is complete. The leftovers make a great hot
 lunch for the next day too! </span></p>
 
-![](assets/images/2016/03/20151214-DSC_5055.jpg)
+![]({{ site.url }}/assets/images/2016/03/20151214-DSC_5055.jpg)
 
 <p><span>&nbsp;</span></p>
 

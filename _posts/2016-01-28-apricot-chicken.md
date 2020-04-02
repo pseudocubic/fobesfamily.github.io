@@ -1,4 +1,4 @@
-![](assets/images/2016/01/20151107-DSC_4663.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151107-DSC_4663.jpg)
 <p align=center style='text-align:center'><span>(Servings 8)</span></p>
 
 <p style='text-indent:.5in'><span>On
@@ -7,7 +7,7 @@ whim. Now that I have it, I’m not sure what I want to do with it. So I decided
 to incorporate it in a new chicken recipe. The tartness of the apricot
 compliments the chicken an spices quite pleasantly. </span></p>
 
-![](assets/images/2016/01/20151107-DSC_4635.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151107-DSC_4635.jpg)
 
 <p style='text-indent:.5in'><span>During
 the cold winter months, I do enjoy cooking with the oven. Not only does it warm
@@ -16,8 +16,8 @@ why I like this recipe is that once I have everything prepped and ready to go,
 it takes just a few minutes to assemble and pop into the oven. Set it and
 forget it!</span></p>
 
-![](assets/images/2016/01/20151107-DSC_4624.jpg)
-![](assets/images/2016/01/20151107-DSC_4641.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151107-DSC_4624.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151107-DSC_4641.jpg)
 
 <p style='text-indent:.5in'><span>&nbsp;&nbsp;&nbsp;The
 apricot is very prominent in this dish so if you want the apricot flavor to be
@@ -26,7 +26,7 @@ cooking time in the oven allows the apricot to thoroughly infuse the chicken as
 well as keeping the meat tender and moist. The sauce it produces would be
 suitably complimented with rice or bread. </span></p>
 
-![](assets/images/2016/01/20151107-DSC_4654.jpg)
+![]({{ site.url }}/assets/images/2016/01/20151107-DSC_4654.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=552
  style='width:552.05pt;border-collapse:collapse;border:none'>

@@ -1,4 +1,4 @@
-![](assets/images/2015/11/20151114-DSC_4872.jpg)
+![]({{ site.url }}/assets/images/2015/11/20151114-DSC_4872.jpg)
 <p align=center style='text-align:center'><span>(Serves 6)</span></p>
 
 <p style='text-indent:.5in'><span>I
@@ -11,7 +11,7 @@ causing the color and texture to suffer as a result. However, today’s version
 was exactly what I wanted. The color is more of a vibrant red and the coated
 pasta while still creamy has a smooth texture.</span></p>
 
-![](assets/images/2015/11/20151114-DSC_4841.jpg)
+![]({{ site.url }}/assets/images/2015/11/20151114-DSC_4841.jpg)
 <p style='text-indent:.5in'><span>The
 spicy shrimp causes me to reminisce about the time period when I was still
 living in New Orleans with my husband. It was really the first time in our
@@ -21,8 +21,8 @@ restaurants to experience the local cuisine. I suppose, according to many, New
 Orleans is a great place for these kind of adventures and we do not disagree.
 We surely ate well the years that we were there. </span></p>
 
-![](assets/images/2015/11/20151114-DSC_4848.jpg)
-![](assets/images/2015/11/20151114-DSC_4869.jpg)
+![]({{ site.url }}/assets/images/2015/11/20151114-DSC_4848.jpg)
+![]({{ site.url }}/assets/images/2015/11/20151114-DSC_4869.jpg)
 
 <p style='text-indent:.5in'><span>Of
 course I needed a vegetable to go with this dish and okra seemed to be the
@@ -32,7 +32,7 @@ Shrimp Pasta as much as my family. My poor little Evie was puffing a little
 from the spice but still asked for more... I guess a little heat never hurt
 anyone yeah? </span></p>
 
-![](assets/images/2015/11/20151114-DSC_4839.jpg)
+![]({{ site.url }}/assets/images/2015/11/20151114-DSC_4839.jpg)
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=533
  style='width:533.05pt;border-collapse:collapse;border:none'>

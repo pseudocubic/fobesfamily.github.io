@@ -1,4 +1,4 @@
-![](assets/images/2015/10/20150806-20150806-DSC_4132.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150806-20150806-DSC_4132.jpg)
 <p align=center style='text-align:center'><span>(Makes 100)</span></p>
 
 <p style='text-indent:.5in'><span>Shrimp
@@ -9,9 +9,9 @@ sometimes I need to jog my memory if I have been away for too long as I make it
 differently for myself. I also don’t make wontons often since they are a little
 time consuming, but when I do I make gigantic batches!</span></p>
 
-![](assets/images/2015/10/20150806-20150806-DSC_4119.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150806-20150806-DSC_4119.jpg)
 
-![](assets/images/2015/10/20150806-20150806-DSC_4127.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150806-20150806-DSC_4127.jpg)
 
 <p style='text-indent:.5in'><span>Well,
 I’ve decided to finally write down my filling recipe as I slowly recreate them.
@@ -22,7 +22,7 @@ as a wonton soup, but you can always make a nice bowl of wonton ramen or serve
 it on it’s own with your choice of dipping sauce. Some soy sauce with a splash
 of vinegar will totally do the trick.</span></p>
 
-![](assets/images/2015/10/20150806-20150806-DSC_4134.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150806-20150806-DSC_4134.jpg)
 
 <p style='text-indent:.5in'><span>I
 have pictured here, the brand of wonton wrappers that I used. This is my

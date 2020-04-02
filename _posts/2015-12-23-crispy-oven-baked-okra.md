@@ -1,4 +1,4 @@
-![](assets/images/2015/12/20151114-DSC_4856.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151114-DSC_4856.jpg)
 <p align=center style='text-align:center'><span>(Servings 4)</span></p>
 
 <p><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’ve
@@ -10,7 +10,7 @@ where okra would be a great vegetable side-dish. This super simple dish is a
 breeze to whip-up. There is virtually no prep work!!! Sometimes something
 simple can be so amazing.</span></p>
 
-![](assets/images/2015/12/20151114-DSC_4852.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151114-DSC_4852.jpg)
 
 <p style='text-indent:.5in'><span>A
 perfect beginner’s dish that will sure to wow your palate. All you have to do
@@ -21,7 +21,7 @@ the okra, leaving none of that slimy texture that I know many do not prefer.
 The seasoning is subtle, but still gives you a tiny kick with every
 bite.&nbsp;&nbsp; </span></p>
 
-![](assets/images/2015/12/20151114-DSC_4862.jpg)
+![]({{ site.url }}/assets/images/2015/12/20151114-DSC_4862.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=551
  style='width:551.25pt;border-collapse:collapse;border:none'>

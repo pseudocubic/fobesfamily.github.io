@@ -1,4 +1,4 @@
-![](assets/images/2015/Sep/20150607-20150607-DSC_3770.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150607-20150607-DSC_3770.jpg)
 
 <p align=center style='text-align:center'><span>(13 skewers)</span></p>
 

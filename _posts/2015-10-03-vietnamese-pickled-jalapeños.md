@@ -1,4 +1,4 @@
-![](assets/images/2015/10/20150828-20150828-DSC_4205.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150828-20150828-DSC_4205.jpg)
 
 <p style='text-indent:.5in'><span>Lately,
 I have been in a pickling mood as it is a great way to preserve fresh produce.
@@ -10,7 +10,7 @@ break out the pickled products and it looks like I slaved over a feast! Or if
 I’m just in one of those moods, I can just make some rice and enjoy a meal with
 some pickled goodies.</span></p>
 
-![](assets/images/2015/10/20150828-DSC_4204.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150828-DSC_4204.jpg)
 
 <p style='text-indent:.5in'><span>Vietnamese
 Pickled Jalapeños goes great in Bánh Mì, Sunny-side up eggs with Rice,
@@ -18,7 +18,7 @@ Vietnamese Ramen (Mì), Hu Tiu…
 basically, whatever you want. I find it is one of the best ways to spice up a
 soupy meal without detracting from the flavor of the broth.</span></p>
 
-![](assets/images/2015/10/20150828-DSC_4207.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150828-DSC_4207.jpg)
 
 <p style='text-indent:.5in'><span>So while jalapeños were in
 season, I went to the local
@@ -28,7 +28,7 @@ freshness; the best way to create a superior pickled product. Don’t worry if
 you’ve never pickled before, this method is so simple and easy. Just let time
 take its course and enjoy!</p>
 
-![](assets/images/2015/10/20150828-20150828-DSC_4212.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150828-20150828-DSC_4212.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=542
  style='width:542.35pt;border-collapse:collapse;border:none'>

@@ -1,4 +1,4 @@
-![](assets/images/2015/Jun/20150520-20150520-DSC_3669.jpg)
+![]({{ site.url }}/assets/images/2015/Jun/20150520-20150520-DSC_3669.jpg)
 (Serves 6)
 
 Summer weather is slowly creeping up which gives me an urge to give the stove a break and serve up some refreshing cold dishes. Salads are one of the first thing to pop into my mind but if you’re anything like me, then you’ll prefer the salad without the lettuce more often than not. I just want that satisfying crunch in every bite, you know, the one that resonates the vegetables’ freshness in your mouth? Well, this Apple-Cucumber Salad will hit the spot. Light and cooling, paired with the crispy texture of apples and cucumbers, I don’t think you’ll miss the lettuce!

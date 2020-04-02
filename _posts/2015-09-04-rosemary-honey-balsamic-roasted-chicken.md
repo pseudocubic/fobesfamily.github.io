@@ -1,4 +1,4 @@
-![](assets/images/2015/Sep/20150830-20150830-DSC_4250.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150830-20150830-DSC_4250.jpg)
 
 <p align=center style='text-align:center'><span>(Serves 6-8)</span></p>
 
@@ -9,9 +9,9 @@ stuck thinking of different ways to make this chicken without it becoming
 monotonous on our palate. But hey, this is a welcomed challenge on my part as
 it will help me with more posts here on the blog right? </span></p>
 
-![](assets/images/2015/Sep/20150830-20150830-DSC_4235.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150830-20150830-DSC_4235.jpg)
 
-![](assets/images/2015/Sep/20150830-20150830-DSC_4237.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150830-20150830-DSC_4237.jpg)
 
 <p style='text-indent:.5in'><span>So
 I was looking through my spice drawer the other day and noticed a bottle of
@@ -21,9 +21,9 @@ when I am using it in an oven recipe. It makes the house smell divine! Oh right,
 I also use fresh rosemary… Anyhow, this just means I will be incorporating
 rosemary into my chicken this time around.</span></p>
 
-![](assets/images/2015/Sep/20150830-20150830-DSC_4245.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150830-20150830-DSC_4245.jpg)
 
-![](assets/images/2015/Sep/20150830-20150830-DSC_4249.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150830-20150830-DSC_4249.jpg)
 
 <p style='text-indent:.5in'><span>I
 wanted to keep this recipe simple and quick and am pleasantly surprised of the
@@ -35,7 +35,7 @@ vinegar married well with the rosemary. That plus the juices released from the
 chicken itself made the sauce irresistible. I wouldn’t have mind having extra
 sauce and just tossing it with some pasta and call it a meal! &nbsp;</span></p>
 
-![](assets/images/2015/Sep/20150830-20150830-DSC_4244.jpg)
+![]({{ site.url }}/assets/images/2015/Sep/20150830-20150830-DSC_4244.jpg)
 
 <p style='text-indent:.5in'><span>Personally,
 I don’t think I would mind making this dish a part of a regular rotation at the

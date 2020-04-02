@@ -1,4 +1,4 @@
-![](assets/images/2015/10/20150726-20150726-DSC_4030.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150726-20150726-DSC_4030.jpg)
 <p align=center style='text-align:center'><span>(Serves 6-8)</span></p>
 
 <p style='text-indent:.5in'><span>Fall
@@ -11,7 +11,7 @@ have to go pick up a few at the store. First thing I do is gather all the ingred
 <p style='text-indent:.5in'><span>The
 best part about all this is the kitchen stays cool and clean which is nice change of pace. Because who likes spending a bunch of time cleaning up a kitchen after cooking a meal right? All I have to wash is my knife, the cutting board and the food processor and I’m home free! Outdoor dining is great, plus Evie can run amuck and eat on the go, a favorite pastime for all children. I hope you get to enjoy this recipe before you get the first cold snap!</span></p>
 
-![](assets/images/2015/10/20150731-20150731-DSC_4056.jpg)
+![]({{ site.url }}/assets/images/2015/10/20150731-20150731-DSC_4056.jpg)
 
 <table border=1 cellspacing=0 cellpadding=0 width=534
  style='width:533.5pt;border-collapse:collapse;border:none'>

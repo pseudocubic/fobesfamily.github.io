@@ -1,4 +1,4 @@
-![](assets/images/2016/02/20150927-IMG_5962.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150927-IMG_5962.jpg)
 <p align=center style='text-align:center'><span>(Servings 4)</span></p>
 
 <p style='text-indent:.5in'><span>I wish everyone a Happy Mother's Day Weekend! For
@@ -8,7 +8,7 @@ have a taste. And I have finally broken down and made this for him. I honestly
 don’t know why it took me so long but I think this dish did not fail to
 impress.</span></p>
 
-![](assets/images/2016/02/20150927-DSC_4356.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150927-DSC_4356.jpg)
 
 <p style='text-indent:.5in'><span>The
 white squid was a great canvas for the sauce that turned it into a beautiful
@@ -17,7 +17,7 @@ everything nice and moist. Giving the tentacles the last minute cook in the
 sauce made it wonderful and crunchy without a rubbery texture from over
 cooking. </span></p>
 
-![](assets/images/2016/02/20150927-DSC_4374.jpg)
+![]({{ site.url }}/assets/images/2016/02/20150927-DSC_4374.jpg)
 
 <p style='text-indent:.5in'><span>This
 is probably one of the healthier ways to enjoy squid, not to say that I’d say
